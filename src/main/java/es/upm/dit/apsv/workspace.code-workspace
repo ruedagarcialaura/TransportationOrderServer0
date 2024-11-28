@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../TraceServer0"
+		},
+		{
+			"path": "../../../../../../../../GPSEnabledTrucksSimulator"
+		}
+	],
+	"settings": {}
+}
